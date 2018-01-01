@@ -1,6 +1,12 @@
 body {
+  height:90%;
   background-color: rgb(255, 255, 102);
   animation-delay: 10
+}
+
+.ng-scope{
+  
+  min-height:100%;
 }
 
 #main {
